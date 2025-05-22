@@ -1,0 +1,21 @@
+{
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "never"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "prettier.trailingComma": "es5",
+  "typescript.preferences.importModuleSpecifierEnding": "js",
+  "workbench.settings.editor": "json",
+  "cSpell.words": [
+    "killingsworth"
+  ]
+}
